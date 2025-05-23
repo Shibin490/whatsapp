@@ -1,3 +1,5 @@
+// ignore_for_file: camel_case_types
+
 import 'package:flutter/material.dart';
 import 'package:whatsapp/views/homepage.dart';
 import 'package:whatsapp/views/themes/theme.dart';
